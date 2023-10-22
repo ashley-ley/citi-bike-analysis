@@ -27,7 +27,8 @@ With the expert guidance of Data Analyst Shannon Lloyd, the data was successfull
 Our analysis yielded two key findings:
 
 + Top and Bottom Stations: The top ten stations with the highest rental activity were all situated in Lower Manhattan, while the bottom ten stations with the lowest rental activity were located in Brooklyn. We attribute this discrepancy to the heightened walkability and accessibility of Lower Manhattan, in addition to the higher bike availability in that area.
-![image](https://github.com/ashley-ley/citi-bike-analysis/assets/132225987/d22d633e-2799-4cd9-aca6-091236b9fe6c)
+  
+     ![image](https://github.com/ashley-ley/citi-bike-analysis/assets/132225987/d22d633e-2799-4cd9-aca6-091236b9fe6c)
 
 + Rental Counts: During April and July, we observed a significant drop in rentals for both members and casual users on specific days. On April 29th, the decline coincided with a significant increase in rainstorms, while on July 16th, two violent crimes were reported. However, it's crucial to note that these findings are not definitive, and any potential connections between these occurrences remain unconfirmed. Further research indicates a potential correlation.
 
