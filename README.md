@@ -18,7 +18,7 @@ Each zip file contains comprehensive data, encompassing details on the stations 
 The primary objective of this analysis is to identify discernible trends in Citibike rentals, with the ultimate goal of optimizing operations in areas of high demand.
 
 ## Data Wrangling
-With the expert guidance of Data Analyst Shannon Lloyd, we successfully wrangled our data into a consolidated CSV file. This process involved partitioned all stations into their respective tables, significantly enhancing the depth of our analysis. This data wrangling process is documented in a Jupyter notebook called citibike_cleansing.ipynb.
+With the expert guidance of Data Analyst Shannon Lloyd, the data was successfully consolidated into a single CSV file. This process involved partitioning all stations into their respective tables, significantly enhancing the depth of our analysis. This data wrangling process is documented in a Jupyter notebook called citibike_cleansing.ipynb.
 
 ## Tableau Workbook
 My comprehensive analysis and visualizations are accessible via the follow [Tableau workbook](https://public.tableau.com/app/profile/ashley.ley/viz/CitiBike2023Analysis/Story1?publish=yes).
