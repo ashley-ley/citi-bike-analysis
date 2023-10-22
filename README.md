@@ -21,7 +21,7 @@ The primary objective of this analysis is to identify discernible trends in Citi
 With the expert guidance of Data Analyst Shannon Lloyd, we successfully wrangled our data into a consolidated CSV file. This process involved partitioned all stations into their respective tables, significantly enhancing the depth of our analysis. This data wrangling process is documented in a Jupyter notebook called citibike_cleansing.ipynb.
 
 ## Tableau Workbook
-Our comprehensive analysis and visualizations are accessible via the follow [Tableau workbook](https://public.tableau.com/app/profile/ashley.ley/viz/CitiBike2023Analysis/Story1?publish=yes).
+My comprehensive analysis and visualizations are accessible via the follow [Tableau workbook](https://public.tableau.com/app/profile/ashley.ley/viz/CitiBike2023Analysis/Story1?publish=yes).
 
 ## Key Findings
 Our analysis yielded two key findings:
