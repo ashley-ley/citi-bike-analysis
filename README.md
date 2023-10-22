@@ -6,6 +6,9 @@ This project delves into the analysis of Citibike rentals for the months of Janu
 ## About Citibike
 Citibike stands as the nation's largest bikeshare program, boasting a fleet of 25,000 bikes distributed across more than 1,500 locations throughout Manhattan, Brooklyn, Queens, the Bronx, Jersey City, and Hoboken. This bikeshare program offers an efficient means for individuals to reduce their commute expenses by participating in a bike-sharing initiative that provides access to bikes across the entire city. With Citibike, your next ride is never more than a few steps away.
 
+## Tableau Workbook
+My comprehensive analysis and visualizations are accessible via the follow [Tableau workbook](https://public.tableau.com/app/profile/ashley.ley/viz/CitiBike2023Analysis/Story1?publish=yes).
+
 ## Data Source
 The data utilized for this analysis is sourced from CitibikeNYC's website. Specifically, we worked with the following zip files:
 + 202307-citibike-tripdata.csv.zip
@@ -19,9 +22,6 @@ The primary objective of this analysis is to identify discernible trends in Citi
 
 ## Data Wrangling
 With the expert guidance of Data Analyst Shannon Lloyd, the data was successfully consolidated into a single CSV file. This process involved partitioning all stations into their respective tables, significantly enhancing the depth of our analysis. This data wrangling process is documented in a Jupyter notebook called citibike_cleansing.ipynb.
-
-## Tableau Workbook
-My comprehensive analysis and visualizations are accessible via the follow [Tableau workbook](https://public.tableau.com/app/profile/ashley.ley/viz/CitiBike2023Analysis/Story1?publish=yes).
 
 ## Key Findings
 Our analysis yielded two key findings:
